@@ -16,14 +16,14 @@ A MR HEALTH é o sonho de João Silva em poder oferecer alimentação saudável 
 ## Entregáveis
 
 ### Etapas do projeto
-1 - Explorar os dados históricos de vendas fornecidos nos arquivos "PEDIDO.CSV", "ITEM_PEDIDO.CSV" e “ITENS.CSV”.
-2 - Verificar a qualidade dos dados, identificar possíveis problemas e realizar tratamentos necessários.
-3 - Realizar uma análise descritiva para entender o comportamento das vendas, identificar padrões sazonais e outras características relevantes.
-4 - Selecionar um modelo adequado para previsão de demanda, como regressão linear ou regressão logística, com base na análise exploratória e nas características dos dados.
-5 - Dividir os dados em conjuntos de treinamento e teste.
-6 - Treinar o modelo utilizando os dados históricos de vendas e realizar a validação para avaliar seu desempenho.
-7 - Avaliar o desempenho do modelo com base em métricas apropriadas, como erro médio absoluto (MAE) ou erro médio quadrático (MSE).
-8 - Fornecer recomendações para a MR HEALTH com base nos resultados obtidos, incluindo insights sobre possíveis melhorias no processo de gestão de estoques.
+1. Explorar os dados históricos de vendas fornecidos nos arquivos "PEDIDO.CSV", "ITEM_PEDIDO.CSV" e “ITENS.CSV”.
+2. Verificar a qualidade dos dados, identificar possíveis problemas e realizar tratamentos necessários.
+3. Realizar uma análise descritiva para entender o comportamento das vendas, identificar padrões sazonais e outras características relevantes.
+4. Selecionar um modelo adequado para previsão de demanda, como regressão linear ou regressão logística, com base na análise exploratória e nas características dos dados.
+5. Dividir os dados em conjuntos de treinamento e teste.
+6. Treinar o modelo utilizando os dados históricos de vendas e realizar a validação para avaliar seu desempenho.
+7. Avaliar o desempenho do modelo com base em métricas apropriadas, como erro médio absoluto (MAE) ou erro médio quadrático (MSE).
+8. Fornecer recomendações para a MR HEALTH com base nos resultados obtidos, incluindo insights sobre possíveis melhorias no processo de gestão de estoques.
 
 **Entregáveis Esperados**
 Código fonte em Python, contendo as etapas de análise exploratória de dados e desenvolvimento do modelo preditivo.
