@@ -28,7 +28,20 @@ A MR HEALTH é o sonho de João Silva em poder oferecer alimentação saudável 
 **Entregáveis Esperados**
 Código fonte em Python, contendo as etapas de análise exploratória de dados e desenvolvimento do modelo preditivo.
 
+## Requisitos
+- Ambiente **conda** (miniconda3) em Linux (WSL) conectado ao VS Code rodando no Windows.
 
+### Como ativar o ambiente de desenvolvimento (bash)
+Execute o seguinte script após instalar o conda:
+
+ ```python
+# Create a new environment and install Conda packages
+conda create --name my_env --file requirements.txt
+
+# Activate the new environment
+conda activate my_env
+ ```
+ 
 ## Contributing 
 
 Pull requests are welcome. For major changes, please open an issue first
