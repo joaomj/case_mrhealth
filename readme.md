@@ -16,10 +16,10 @@ A MR HEALTH é o sonho de João Silva em poder oferecer alimentação saudável 
 ## Entregáveis
 
 ### Etapas do projeto
-1. Explorar os dados históricos de vendas fornecidos nos arquivos "PEDIDO.CSV", "ITEM_PEDIDO.CSV" e “ITENS.CSV”.
+1. Explorar os dados históricos de vendas fornecidos nos arquivos "PEDIDO.XLSX", "ITEM_PEDIDO.XLSX" e “ITENS.XLSX”.
 2. Verificar a qualidade dos dados, identificar possíveis problemas e realizar tratamentos necessários.
 3. Realizar uma análise descritiva para entender o comportamento das vendas, identificar padrões sazonais e outras características relevantes.
-4. Selecionar um modelo adequado para previsão de demanda, como regressão linear ou regressão logística, com base na análise exploratória e nas características dos dados.
+4. Selecionar um modelo adequado para previsão de **demanda**, como regressão linear ou regressão logística, com base na análise exploratória e nas características dos dados.
 5. Dividir os dados em conjuntos de treinamento e teste.
 6. Treinar o modelo utilizando os dados históricos de vendas e realizar a validação para avaliar seu desempenho.
 7. Avaliar o desempenho do modelo com base em métricas apropriadas, como erro médio absoluto (MAE) ou erro médio quadrático (MSE).
@@ -30,6 +30,7 @@ Código fonte em Python, contendo as etapas de análise exploratória de dados e
 
 ## Requisitos
 - Ambiente **conda** (miniconda3) em Linux (WSL) conectado ao VS Code rodando no Windows.
+- **ATENÇÃO**: os dados do teste (arquivos xlsx) não foram gravados no Github para preservar a privacidade (apesar de serem dados de um teste fictício).
 
 ### Como ativar o ambiente de desenvolvimento (bash)
 Execute o seguinte script após instalar o conda:
@@ -42,13 +43,6 @@ conda create --name my_env --file requirements.txt
 conda activate my_env
  ```
  
-## Contributing 
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
+## Licença
 
 [MIT](https://choosealicense.com/licenses/mit/)
