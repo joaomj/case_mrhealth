@@ -31,6 +31,7 @@ venv.bak/
 
 # VS Code
 .vscode/
+__pycache__
 
 # Conda environments
 *.conda
