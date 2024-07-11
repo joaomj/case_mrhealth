@@ -1,10 +1,10 @@
 # Case Mr. Health
 
-Case de estudos para a Data Lakers.
+Case de estudos.
 
 ## Contexto
 
-A DataLakers foi contratada pela MR. HEALTH para desenvolver um modelo preditivo simplificado que possa auxiliar a MR HEALTH na otimização a gestão de estoques de suas unidades. Utilizando dados históricos de vendas, o modelo deverá ser capaz de prever a demanda futura, permitindo um planejamento mais eficiente das quantidades a serem estocadas em cada unidade.
+A empresa foi contratada pela MR. HEALTH para desenvolver um modelo preditivo simplificado que possa auxiliar a MR HEALTH na otimização a gestão de estoques de suas unidades. Utilizando dados históricos de vendas, o modelo deverá ser capaz de prever a demanda futura, permitindo um planejamento mais eficiente das quantidades a serem estocadas em cada unidade.
 
 ### A Mr. Health
 A MR HEALTH é uma rede de “Slow-Food” presente na região sul e com aproximadamente 50 unidades.
